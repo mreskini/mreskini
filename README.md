@@ -5,10 +5,10 @@
 Adept at driving front-end and back-end integration to ensure seamless, scalable and reliable application. I enjoy building projects from scratch to the end through the full software development life cycle, with the agile methodology.
 
 ## Experience:
-+ 5 years of experience in HTML, CSS, BootStrap, development
-+ 4 years of experience in MySQL, MongoDB, Firebase
-+ 3 years of experience in NodeJS, ReactJS, JavaScript
-+ 2 years of experience in Flutter, ReactNative
++ 6 years of experience in HTML, CSS, BootStrap, development
++ 5 years of experience in MySQL, MongoDB, Firebase
++ 4 years of experience in NodeJS, ReactJS, JavaScript
++ 3 years of experience in Flutter, ReactNative
 
 -------------------------------------------------------------------------------------------------------
 
